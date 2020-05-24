@@ -1,3 +1,6 @@
+# This is a fork for a LayerFused x301 3D Printer
+by [Maker's Mashup](https://www.youtube.com/channel/UCevttltfkZ76jwqfV1vrRbQ) 
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
