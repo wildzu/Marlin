@@ -1,5 +1,9 @@
 # This is a fork for a LayerFused x301 3D Printer
-by [Maker's Mashup](https://www.youtube.com/channel/UCevttltfkZ76jwqfV1vrRbQ) 
+by [Maker's Mashup](https://www.youtube.com/watch?v=JwKp_6I6MR4)
+
+[Bill of materials](https://docs.google.com/spreadsheets/d/1BkFmqMdLik8-B1qxVCviEUmhcazlHoreDtXW5ndriQE/edit#gid=0)
+
+[Parts on Thingiverse](https://www.thingiverse.com/thing:4329631)
 
 # Marlin 3D Printer Firmware
 
